@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fomahacode.com%2Fcreate-a-custom-linkedin-banner-with-cloudinary&psig=AOvVaw2ERQ58_DSObVmxKVdkrt2O&ust=1686983584756000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCR8duVx_8CFQAAAAAdAAAAABAJ)
 # 💾 Emmanuel Arias Aguilar
 
 **`Big Mama (Developer/Student)`**

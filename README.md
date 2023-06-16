@@ -2,7 +2,17 @@
 
 **`Big Mama (Developer/Student)`**
 
-I'm an engineering systems student; currently I'm learning about back-end and security. Most of my coding projects were built up for academic purposes. Future projects will aim to improve my skills in the area of programming I want to aspire to.
+I'm an engineering systems student, and most of my coding projects on github were built up for academic purposes. In the future, projects will aim to improve my skills in the area of programming/security I want to aspire to.
+
+***Currently:***
+- 💻 I'm working on developing an API for a lab management app.
+- 📖 I'm learning about Back-end and Security.
+
+
+## Social
+
+<a href="https://twitter.com/El_BigMama"><img align="left" alt="Social" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
+
 
 ---
 
@@ -26,3 +36,6 @@ I'm an engineering systems student; currently I'm learning about back-end and se
 
 ### 📊 Stats
 ![Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAriasA&show_icons=true&theme=dracula)
+
+---
+

@@ -23,3 +23,9 @@ I'm an engineering systems student; currently I'm learning about back-end and se
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+
+---
+
+### 📊 Stats
+
+![Emmanuel's Github stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAriasA&show_icons=true&theme=Dracula)

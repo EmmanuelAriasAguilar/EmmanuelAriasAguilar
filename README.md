@@ -10,9 +10,9 @@ I'm an engineering systems student, and most of my coding projects on github wer
 
 
 ### Social
-
-<br><a href="https://twitter.com/El_BigMama"><img align="left" alt="Social" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></br>
-
+<br><a href="https://twitter.com/El_BigMama"><img align="left" alt="Social" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
+<a href="https://www.linkedin.com/in/emmanuel-arias-aguilar/"><img align="left" alt="Social" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+<a href="https://www.instagram.com/mr_bigmama/"><img align="left" alt="Social" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></br>
 
 ---
 

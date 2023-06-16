@@ -28,4 +28,4 @@ I'm an engineering systems student; currently I'm learning about back-end and se
 
 ### 📊 Stats
 
-![Emmanuel's Github stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAriasA&show_icons=true&theme=Dracula)
+![Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAriasA&show_icons=true&theme=Dracula)

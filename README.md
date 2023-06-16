@@ -36,6 +36,3 @@ I'm an engineering systems student, and most of my coding projects on github wer
 
 ### 📊 Stats
 ![Emmanuel's Github stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAriasA&show_icons=true&theme=dracula)
-
----
-

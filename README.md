@@ -9,9 +9,9 @@ I'm an engineering systems student, and most of my coding projects on github wer
 - 📖 I'm learning about Back-end and Security.
 
 
-## Social
+### Social
 
-<a href="https://twitter.com/El_BigMama"><img align="left" alt="Social" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">
+<br><a href="https://twitter.com/El_BigMama"><img align="left" alt="Social" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></br>
 
 
 ---

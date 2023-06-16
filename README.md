@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fomahacode.com%2Fcreate-a-custom-linkedin-banner-with-cloudinary&psig=AOvVaw2ERQ58_DSObVmxKVdkrt2O&ust=1686983584756000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCR8duVx_8CFQAAAAAdAAAAABAJ)
+![logo](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
 # 💾 Emmanuel Arias Aguilar
 
 **`Big Mama (Developer/Student)`**

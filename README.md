@@ -5,8 +5,8 @@
 I'm an engineering systems student, and most of my coding projects on github were built up for academic purposes. In the future, projects will aim to improve my skills in the area of programming/security I want to aspire to.
 
 ***Currently:***
-- 💻 I'm working on developing an API for a lab management app.
-- 📖 I'm learning about Back-end and Security.
+- 💻 I'm working on developing an APIs for a inventory management app and incident control app.
+- 📖 I'm learning about Back-end and MicroServices.
 
 
 ### Social

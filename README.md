@@ -1,4 +1,4 @@
-# 💾 Emmanuel Arias Aguilar 💾
+# 👔 Emmanuel Arias Aguilar 👔
 
 **`Big Mama (Developer/Student)`**
 

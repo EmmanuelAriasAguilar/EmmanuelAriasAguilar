@@ -5,7 +5,7 @@
 I'm an engineering systems student, and most of my coding projects on github were built up for academic purposes. In the future, projects will aim to improve my skills in the area of programming I want to aspire to.
 
 ***Currently:***
-- 💻 I'm working on the development of Microservices and implementation of Clean Architecture for the company where I am doing residencies. .
+- 💻 I'm working on the development of Microservices and implementation of Clean Architecture for the company where I am doing residencies DATAWARE.
 - 📖 I'm learning about software architecture and .Net Core.
 
 ### Social

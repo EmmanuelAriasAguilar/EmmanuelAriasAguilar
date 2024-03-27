@@ -1,23 +1,11 @@
-<br clear="both">
+![Hi there! I'm Emmanuel, a Software Developer!](Banner.png)
 
-<h1 align="center">👔 Emmanuel Arias 👔</h1>
+### Hello there 👋
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://64.media.tumblr.com/0b26d836185b7286e2c18e408147f161/5bac9b34685ea9b4-cf/s640x960/f2309e95686b4028cb8c348705844be39fd54674.gifv"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I am a Computer Systems Engineering student, and most of my coding projects on github were created for academic purposes. At this point, the projects will aim to improve my skills in the area of software development as a Full stack.<br><br>- 🔭 I’m working as a software using React and a microservice in ASP.NET for the company where I currently work.<br>- 📚 I'm currently learning microservices with ASP.NET, React and TypeScript.<br>- ⚡ In my free time I play videogames and and spend time with my friends.</p>
-
+- 💻 I'm Emmaunel, a Software Developer from Mexico (UTC-6).
+- 🦚 Currently building a software/microservice for the company where I am doing an internship [Dataware](https://www.dataware.com.mx/).
+- 📖 I learn about Microservices with ASP.Net, React and TypeScript.
+- 🧡 Estoy abierto a oportunidades para aprender, escribir y colaborar en el desarrollo de software o proyectos relacionados.
 ###
 
 <div align="left">

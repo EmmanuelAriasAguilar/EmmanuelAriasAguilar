@@ -5,7 +5,7 @@
 - 💻 I'm Emmaunel, a Software Developer from Mexico (UTC-6).
 - 🦚 Currently building a software/microservice for the company where I am doing an internship [Dataware](https://www.dataware.com.mx/).
 - 📖 I learn about Microservices with ASP.Net, React and TypeScript.
-- 🧡 Estoy abierto a oportunidades para aprender, escribir y colaborar en el desarrollo de software o proyectos relacionados.
+- 🧡 I'm open to opportunities to learn, write, and collaborate on software development or related projects.
 ###
 
 <div align="left">

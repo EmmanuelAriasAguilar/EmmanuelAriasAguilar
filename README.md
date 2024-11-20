@@ -1,4 +1,4 @@
-![Hi there! I'm Emmanuel, a Software Developer!]()
+![Hi there! I'm Emmanuel, a Software Developer!](Banner.png)
 
 ### Hello there 👋
 
